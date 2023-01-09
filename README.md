@@ -1,2 +1,2 @@
-# DNA1-2
+# DNA-RNA
 DNA-anaysis
